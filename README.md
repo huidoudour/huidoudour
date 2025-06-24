@@ -20,7 +20,6 @@
 > “爱好折腾电脑” — Always exploring, always learning.
 
 
-![github contribution grid snake animation](https://github.com/huidoudour/huidoudour/assets/github-contribution-grid-snake.svg)
 <!--
 All hope was not lost
 -->
