@@ -21,7 +21,15 @@
 > “爱好折腾电脑” — Always exploring, always learning.
 
 
-![github contribution grid snake animation](https://github.com/huidoudour/huidoudour/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huidoudour/huidoudour/master/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huidoudour/huidoudour/master/assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huidoudour/huidoudour/master/assets/github-contribution-grid-snake.svg">
+</picture>
+
+
 
 <!--
 All hope was not lost
