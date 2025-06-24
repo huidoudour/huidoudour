@@ -19,7 +19,7 @@ jobs:
       - name: Push the generated snake svg to the output directory on master branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: master
+          target_branch: output
           build_dir: dist/output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
