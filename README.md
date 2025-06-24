@@ -1,4 +1,5 @@
-# ⏱ 亻尔女子，我是 huidoudour!  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=qωq，亻尔女子，我是huidoudour;一个好学者，爱好浏览代码.;同时是热于贡献的学习者.)](https://git.io/typing-svg)
+
 
 ## ✔ 关于我  
 - **身份:** 开发者？不，学习爱好
@@ -19,6 +20,8 @@
 
 > “爱好折腾电脑” — Always exploring, always learning.
 
+
+![github contribution grid snake animation](https://github.com/huidoudour/huidoudour/blob/master/output/github-contribution-grid-snake.svg)
 
 <!--
 All hope was not lost
