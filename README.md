@@ -21,7 +21,23 @@
 > “爱好折腾电脑” — Always exploring, always learning.
 
 
-### 🐍 Contribution Snake
+### Github Status
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=huidoudour&show_icons=true&hide_border=true&bg_color=0D1117&title_color=90CAF9&text_color=64B5F6&icon_color=CE93D8"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=huidoudour&show_icons=true&hide_border=true&bg_color=E3F2FD&title_color=0D47A1&text_color=1565C0&icon_color=8E24AA"
+      media="(prefers-color-scheme: light)" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=huidoudour&show_icons=true&hide_border=true&bg_color=E3F2FD&title_color=0D47A1&text_color=1565C0&icon_color=8E24AA" 
+      alt="GitHub Stats" />
+  </picture>
+</p>
+
+
+### 贡献贪吃蛇图形
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huidoudour/huidoudour/master/assets/github-contribution-grid-snake-dark.svg">
@@ -29,8 +45,27 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huidoudour/huidoudour/master/assets/github-contribution-grid-snake.svg">
 </picture>
 
+------
 
 
-<!--
-All hope was not lost
--->
+### 贡献曲线
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=huidoudour&hide_border=true&area_color=388E3C&line=66BB6A&point=81C784&color=C8E6C9&bg_color=1B1F1B"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=huidoudour&hide_border=true&area_color=A5D6A7&line=A5D6A7&point=66BB6A&color=1B5E20&bg_color=E8F5E9"
+      media="(prefers-color-scheme: light)" />
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=huidoudour&hide_border=true&area_color=A5D6A7&line=A5D6A7&point=66BB6A&color=1B5E20&bg_color=E8F5E9" 
+      alt="Activity Graph" />
+  </picture>
+</p>
+
+
+
+
+>All hope was not lost
+<br>
+>Graphics are just pretty
