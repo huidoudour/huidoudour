@@ -35,7 +35,9 @@
       alt="GitHub Stats" />
   </picture>
 </p>
+### User Most Used Language
 
+![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huidoudour&layout=compact&langs_count=8&theme=default&bg_color=E3F2FD&title_color=0D47A1&text_color=1565C0)
 
 ### 贡献贪吃蛇图形
 
