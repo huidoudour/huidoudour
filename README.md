@@ -68,7 +68,9 @@
   </picture>
 </p>
 
+### WakaTime
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@huidoudour&theme=default&bg_color=E3F2FD)](https://wakatime.com/@huidoudour)
 
 
 >All hope was not lost
