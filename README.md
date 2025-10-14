@@ -13,8 +13,8 @@
 - PHP/HTML 仅仅是学习网页开发
 - Linux Bash 网络系统管理Linux命令行脚本
 
-## ξ 社交平台链接
-- [Coolapk Profile](http://www.coolapk.com/u/16585996)  
+## ξ 平台徽章
+[![Coolapk Profile](https://img.shields.io/badge/Coolapk-个人主页-1E88E5.svg?logo=android&logoColor=white)](http://www.coolapk.com/u/16585996)|[![wakatime](https://wakatime.com/badge/user/9940b4cb-b281-46d5-8734-35f060179d8f.svg)](https://wakatime.com/@9940b4cb-b281-46d5-8734-35f060179d8f)|[![CSDN](https://img.shields.io/badge/CSDN-huidoudour-blue)](https://blog.csdn.net/qq_57848433)|[![GitHub Profile Views](https://komarev.com/ghpvc/?username=huidoudour&color=brightgreen&label=Guest)](https://github.com/huidoudour)
 
 ---
 
@@ -70,10 +70,12 @@
 
 ### WakaTime
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@huidoudour&theme=default&bg_color=E3F2FD)](https://wakatime.com/@huidoudour)
+<p align="center">
+  <picture>
+    <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=@huidoudour&theme=default&bg_color=E3F2FD">
+  </picture>
+</p>
 
-
->All hope was not lost
-<br>
-
+>All hope was not lost<br>
 >Graphics are just pretty
