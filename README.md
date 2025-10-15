@@ -79,5 +79,8 @@
   </picture>
 </p>
 
->All hope was not lost<br>
->Graphics are just pretty
+>All hope was not lost
+
+<br>
+
+> Graphics are just pretty
