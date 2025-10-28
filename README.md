@@ -69,8 +69,8 @@
       alt="Activity Graph" />
   </picture>
 </p>
-### WakaTime
 
+### Waka Time
 
 [![Waka Time](https://img.shields.io/badge/★-Waka%20Time-blue.svg)](waka-time.md) 
 
