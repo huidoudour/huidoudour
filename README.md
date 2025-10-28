@@ -73,7 +73,7 @@
 
 
 
-[![Waka Time](https://img.shields.io/badge/★-Waka Time-blue.svg)](Waka time.md) 
+[![Waka Time](https://img.shields.io/badge/★-Waka Time-blue.svg)](waka_time.md) 
 
 <br>
 
