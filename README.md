@@ -69,15 +69,12 @@
       alt="Activity Graph" />
   </picture>
 </p>
-
 ### WakaTime
 
-<p align="center">
-  <picture>
-    <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=@huidoudour&theme=default&bg_color=E3F2FD">
-  </picture>
-</p>
+[![Waka Time](https://img.shields.io/badge/Waka Time-Data-blue.svg)](Waka time.md) 
+
+<br>
+
 
 >All hope was not lost
 
