@@ -72,8 +72,7 @@
 ### WakaTime
 
 
-
-[![Waka Time](https://img.shields.io/badge/★-Waka Time-blue.svg)](waka_time.md) 
+[![Waka Time](https://img.shields.io/badge/★-Waka%20Time-blue.svg)](waka-time.md) 
 
 <br>
 
