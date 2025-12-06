@@ -3,7 +3,7 @@
 <p align="center">
   <picture>
     <img 
-    src="https://www.ccrh-cmit.uno/api/wakatime?username=@huidoudour&theme=default&bg_color=E3F2FD">
+    src="https://github-status-eight.vercel.app/api/wakatime?username=@huidoudour&theme=default&bg_color=E3F2FD">
   </picture>
 </p>
 
