@@ -8,8 +8,10 @@
 </p>
 
 
-
+<!-- 
 <figure>
   <embed src="https://wakatime.com/share/@huidoudour/6e093e83-3d10-4cde-ac1b-2859a1fb8644.svg">
 </figure>
+-->
 
+> Code Time Status
