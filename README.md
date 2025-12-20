@@ -1,24 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=qωq，亻尔女子，我是huidoudour;一个好学者，爱好浏览代码.;同时是热于贡献的学习者.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=qwq,Hey,I'm%20huidoudour;Enjoy%20learning%20and%20referencing%20high-quality%20code;And%20a%20learner%20eager%20to%20contribute.)](https://git.io/typing-svg)
 
 
-## ✔ 关于我  
-- **身份:** 开发者？不，学习爱好
-- **语言 & 工具:** Python, C, PHP/HTML, Linux Bash 等。
-- **爱好:** 我比较喜欢折腾电脑，虚拟机、网络系统等。
-- **话语:** 你保护世界，我保护你
+## About me  
+- **Identity:** Developer？No, just learn
+- **Language:** Python, C, PHP/HTML, Linux Bash。
+- **Hobbies:** Tinkering with virtual machines and network systems。
+- **Discourse:** You protect the world, I protect you.
 
-## ⚒ 趋向语言 
-- Python 仅仅是学习Python程序开发
-- C语言 仅仅是学习C语言程序开发
-- PHP/HTML 仅仅是学习网页开发
-- Linux Bash 网络系统管理Linux命令行脚本
+## Language of tropism 
+- **Python:** Only Learn
+- **C:** Only Learn
+- **PHP&HTML:** Only Learn
+- **Linux Bash:** Only Learn
 
-## ξ 平台徽章
+## Profile
 [![Coolapk Profile](https://img.shields.io/badge/Coolapk-个人主页-1E88E5.svg?logo=android&logoColor=white)](http://www.coolapk.com/u/16585996)|[![wakatime](https://wakatime.com/badge/user/9940b4cb-b281-46d5-8734-35f060179d8f.svg)](https://wakatime.com/@9940b4cb-b281-46d5-8734-35f060179d8f)|[![CSDN](https://img.shields.io/badge/CSDN-huidoudour-blue)](https://blog.csdn.net/qq_57848433)|[![GitHub Profile Views](https://komarev.com/ghpvc/?username=huidoudour&color=brightgreen&label=Guest)](https://github.com/huidoudour)
 
 ---
 
-> “爱好折腾电脑” — Always exploring, always learning.
+> "Hobby" — Always exploring, always learning.
 
 
 ### Github Status
@@ -44,7 +44,7 @@
   </picture>
 </p>
 
-### 贡献贪吃蛇图形
+### Snake Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huidoudour/huidoudour/master/assets/github-contribution-grid-snake-dark.svg">
@@ -55,7 +55,7 @@
 ------
 
 
-### 贡献曲线
+### Contribution Curve
 <p align="center">
   <picture>
     <source 
