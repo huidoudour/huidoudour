@@ -14,7 +14,7 @@
 - **Linux Bash:** Only Learn
 
 ## Profile
-[![Coolapk Profile](https://img.shields.io/badge/Coolapk-个人主页-1E88E5.svg?logo=android&logoColor=white)](http://www.coolapk.com/u/16585996)|[![wakatime](https://wakatime.com/badge/user/9940b4cb-b281-46d5-8734-35f060179d8f.svg)](https://wakatime.com/@9940b4cb-b281-46d5-8734-35f060179d8f)|[![CSDN](https://img.shields.io/badge/CSDN-huidoudour-blue)](https://blog.csdn.net/qq_57848433)|[![GitHub Profile Views](https://komarev.com/ghpvc/?username=huidoudour&color=brightgreen&label=Guest)](https://github.com/huidoudour)
+[![Coolapk Profile](https://img.shields.io/badge/Coolapk-Profile-1E88E5.svg?logo=android&logoColor=white)](http://www.coolapk.com/u/16585996)|[![wakatime](https://wakatime.com/badge/user/9940b4cb-b281-46d5-8734-35f060179d8f.svg)](https://wakatime.com/@9940b4cb-b281-46d5-8734-35f060179d8f)|[![CSDN](https://img.shields.io/badge/CSDN-huidoudour-blue)](https://blog.csdn.net/qq_57848433)|[![GitHub Profile Views](https://komarev.com/ghpvc/?username=huidoudour&color=brightgreen&label=Guest)](https://github.com/huidoudour)
 
 ---
 
