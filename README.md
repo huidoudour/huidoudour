@@ -1,24 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=qwq,Hey,I'm%20huidoudour;Enjoy%20learning%20and%20referencing%20high-quality%20code;And%20a%20learner%20eager%20to%20contribute.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=QωQ,%20Hey,%20I'm%20huidoudour;Enjoys%20experimenting%20with%20new%20things)](https://git.io/typing-svg)
 
 
-## About me  
-- **Identity:** Developer？No, just learn
-- **Language:** Python, C, PHP/HTML, Linux Bash。
-- **Hobbies:** Tinkering with virtual machines and network systems。
-- **Discourse:** You protect the world, I protect you.
-
-## Language of tropism 
-- **Python:** Only Learn
-- **C:** Only Learn
-- **PHP&HTML:** Only Learn
-- **Linux Bash:** Only Learn
 
 ## Profile
-[![Coolapk Profile](https://img.shields.io/badge/Coolapk-Profile-1E88E5.svg?logo=android&logoColor=white)](http://www.coolapk.com/u/16585996)|[![wakatime](https://wakatime.com/badge/user/9940b4cb-b281-46d5-8734-35f060179d8f.svg)](https://wakatime.com/@9940b4cb-b281-46d5-8734-35f060179d8f)|[![CSDN](https://img.shields.io/badge/CSDN-huidoudour-blue)](https://blog.csdn.net/qq_57848433)|[![GitHub Profile Views](https://komarev.com/ghpvc/?username=huidoudour&color=brightgreen&label=Guest)](https://github.com/huidoudour)
+[![Coolapk Profile](https://img.shields.io/badge/Coolapk-Profile-1E88E5.svg?logo=android&logoColor=white)](http://www.coolapk.com/u/16585996)|[![wakatime](https://wakatime.com/badge/user/9940b4cb-b281-46d5-8734-35f060179d8f.svg)](https://wakatime.com/@9940b4cb-b281-46d5-8734-35f060179d8f)|[![CSDN](https://img.shields.io/badge/CSDN-huidoudour-blue)](https://blog.csdn.net/qq_57848433)|[![Waka Time](https://img.shields.io/badge/★-Waka%20Time-blue.svg)](waka-time.md) | [![GitHub Profile Views](https://komarev.com/ghpvc/?username=huidoudour&color=brightgreen&label=Guest)](https://github.com/huidoudour)
 
 ---
 
-> "Hobby" — Always exploring, always learning.
+
 
 
 ### Github Status
@@ -69,16 +58,7 @@
       alt="Activity Graph" />
   </picture>
 </p>
-
-### Waka Time
-
-[![Waka Time](https://img.shields.io/badge/★-Waka%20Time-blue.svg)](waka-time.md) 
-
 <br>
 
 
 >All hope was not lost
-
-<br>
-
-> Graphics are just pretty
