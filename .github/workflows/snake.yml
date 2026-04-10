@@ -32,16 +32,21 @@ jobs:
           mkdir -p ~/.ssh
           echo "${{ secrets.SSH_SIGNING_KEY }}" > ~/.ssh/signing_key
           chmod 600 ~/.ssh/signing_key
-          git config --local gpg.format ssh
-          git config --local user.signingkey ~/.ssh/signing_key
-          git config --local gpg.ssh.program ssh-keygen
 
       - name: Commit files
-        uses: EndBug/add-and-commit@v7.2.1
+        uses: EndBug/add-and-commit@v9
         with:
           branch: main
           message: "Generate Contribution Snake"
           add: "assets/*.svg"
           commit_options: '-S'
+          default_author: github_actions
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIT_CONFIG_COUNT: 3
+          GIT_CONFIG_KEY_0: gpg.format
+          GIT_CONFIG_VALUE_0: ssh
+          GIT_CONFIG_KEY_1: user.signingkey
+          GIT_CONFIG_VALUE_1: ~/.ssh/signing_key
+          GIT_CONFIG_KEY_2: gpg.ssh.program
+          GIT_CONFIG_VALUE_2: ssh-keygen
