@@ -1,12 +1,8 @@
 name: Generate Snake
 
 on:
-  push:
-   branches: [ "main" ]
-  pull_request:
-   branches: [ "main" ]
   schedule:
-    - cron: "0 0,6,12 * * *"
+    - cron: "0 0,6,12,18 * * *"
   workflow_dispatch:
 
 jobs:
