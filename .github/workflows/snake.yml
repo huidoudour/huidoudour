@@ -32,18 +32,20 @@ jobs:
       - name: Commit files
         uses: EndBug/add-and-commit@v9
         with:
-          branch: main
           message: "Generate Contribution Snake"
           add: "assets/*.svg"
-          commit_options: '-S'
+          default_author: github_actions
+          allow_empty_commit: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GIT_CONFIG_COUNT: "4"
+          GIT_CONFIG_COUNT: "5"
           GIT_CONFIG_KEY_0: "gpg.format"
           GIT_CONFIG_VALUE_0: "ssh"
           GIT_CONFIG_KEY_1: "user.signingkey"
           GIT_CONFIG_VALUE_1: "~/.ssh/signing_key"
-          GIT_CONFIG_KEY_2: "user.name"
-          GIT_CONFIG_VALUE_2: "${{ github.repository_owner }}"
-          GIT_CONFIG_KEY_3: "user.email"
-          GIT_CONFIG_VALUE_3: "${{ github.repository_owner }}@users.noreply.github.com"
+          GIT_CONFIG_KEY_2: "gpg.ssh.program"
+          GIT_CONFIG_VALUE_2: "ssh-keygen"
+          GIT_CONFIG_KEY_3: "user.name"
+          GIT_CONFIG_VALUE_3: "${{ github.repository_owner }}"
+          GIT_CONFIG_KEY_4: "user.email"
+          GIT_CONFIG_VALUE_4: "${{ github.repository_owner }}@users.noreply.github.com"
