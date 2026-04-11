@@ -28,11 +28,6 @@ jobs:
           mkdir -p ~/.ssh
           echo "${{ secrets.SSH_SIGNING_KEY }}" > ~/.ssh/signing_key
           chmod 600 ~/.ssh/signing_key
-          git config --global gpg.format ssh
-          git config --global user.signingkey ~/.ssh/signing_key
-          git config --global gpg.ssh.program ssh-keygen
-          git config --global user.name "${{ github.repository_owner }}"
-          git config --global user.email "${{ github.repository_owner }}@users.noreply.github.com"
 
       - name: Commit files
         uses: EndBug/add-and-commit@v9
@@ -43,3 +38,12 @@ jobs:
           commit_options: '-S'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIT_CONFIG_COUNT: "4"
+          GIT_CONFIG_KEY_0: "gpg.format"
+          GIT_CONFIG_VALUE_0: "ssh"
+          GIT_CONFIG_KEY_1: "user.signingkey"
+          GIT_CONFIG_VALUE_1: "~/.ssh/signing_key"
+          GIT_CONFIG_KEY_2: "user.name"
+          GIT_CONFIG_VALUE_2: "${{ github.repository_owner }}"
+          GIT_CONFIG_KEY_3: "user.email"
+          GIT_CONFIG_VALUE_3: "${{ github.repository_owner }}@users.noreply.github.com"
