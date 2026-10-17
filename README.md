@@ -38,24 +38,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huidoudour/huidoudour/master/assets/github-contribution-grid-snake.svg">
 </picture>
 
-------
-
-
-### Contribution Curve
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-status-eight.vercel.app/graph?username=huidoudour&hide_border=true&area_color=388E3C&line=66BB6A&point=81C784&color=C8E6C9&bg_color=1B1F1B"
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-status-eight.vercel.app/graph?username=huidoudour&hide_border=true&area_color=A5D6A7&line=A5D6A7&point=66BB6A&color=1B5E20&bg_color=E8F5E9"
-      media="(prefers-color-scheme: light)" />
-    <img 
-      src="https://github-status-eight.vercel.app/graph?username=huidoudour&hide_border=true&area_color=A5D6A7&line=A5D6A7&point=66BB6A&color=1B5E20&bg_color=E8F5E9" 
-      alt="Activity Graph" />
-  </picture>
-</p>
-
 <br>
 
 >All hope was not lost
