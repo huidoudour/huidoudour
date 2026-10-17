@@ -3,7 +3,7 @@
 
 
 ## Profile
-[![Coolapk Profile](https://img.shields.io/badge/Coolapk-Profile-1E88E5.svg?logo=android&logoColor=white)](http://www.coolapk.com/u/16585996)|[![wakatime](https://wakatime.com/badge/user/9940b4cb-b281-46d5-8734-35f060179d8f.svg)](https://wakatime.com/@9940b4cb-b281-46d5-8734-35f060179d8f)|[![CSDN](https://img.shields.io/badge/CSDN-huidoudour-blue)](https://blog.csdn.net/qq_57848433)|[![Waka Time](https://img.shields.io/badge/★-Waka%20Time-blue.svg)](waka-time.md)|[![GitHub Profile Views](https://komarev.com/ghpvc/?username=huidoudour&color=brightgreen&label=Guest)](https://github.com/huidoudour)
+[![Coolapk Profile](https://img.shields.io/badge/Coolapk-Profile-1E88E5.svg?logo=android&logoColor=white)](http://www.coolapk.com/u/16585996)|[![wakatime](https://wakatime.com/badge/user/9940b4cb-b281-46d5-8734-35f060179d8f.svg)](https://wakatime.com/@9940b4cb-b281-46d5-8734-35f060179d8f)|[![CSDN](https://img.shields.io/badge/CSDN-huidoudour-blue)](https://blog.csdn.net/qq_57848433)|[![Waka Time](https://img.shields.io/badge/★-Waka%20Time-blue.svg)](waka-time.md)
 
 ---
 
@@ -45,13 +45,13 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=huidoudour&hide_border=true&area_color=388E3C&line=66BB6A&point=81C784&color=C8E6C9&bg_color=1B1F1B"
+      srcset="https://github-status-eight.vercel.app/graph?username=huidoudour&hide_border=true&area_color=388E3C&line=66BB6A&point=81C784&color=C8E6C9&bg_color=1B1F1B"
       media="(prefers-color-scheme: dark)" />
     <source 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=huidoudour&hide_border=true&area_color=A5D6A7&line=A5D6A7&point=66BB6A&color=1B5E20&bg_color=E8F5E9"
+      srcset="https://github-status-eight.vercel.app/graph?username=huidoudour&hide_border=true&area_color=A5D6A7&line=A5D6A7&point=66BB6A&color=1B5E20&bg_color=E8F5E9"
       media="(prefers-color-scheme: light)" />
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=huidoudour&hide_border=true&area_color=A5D6A7&line=A5D6A7&point=66BB6A&color=1B5E20&bg_color=E8F5E9" 
+      src="https://github-status-eight.vercel.app/graph?username=huidoudour&hide_border=true&area_color=A5D6A7&line=A5D6A7&point=66BB6A&color=1B5E20&bg_color=E8F5E9" 
       alt="Activity Graph" />
   </picture>
 </p>
